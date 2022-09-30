@@ -1,0 +1,6 @@
+train: ../dataset/images/train/
+val: ../dataset/images/val/
+
+nc: 16
+
+names: ['dog', 'person', 'cat', 'tv', 'car', 'meatbalss', 'marinara sauce', 'tomato soup', 'chicken noodle soup', 'french onion soup', 'chicken breast', 'ribs', 'pulled pork', 'hamburger', 'cavity', 'bus', 'truck']
